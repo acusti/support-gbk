@@ -2,7 +2,7 @@
 
 An Atom plugin for supporting non-UTF-8 encoding files.
 
-![support-gbk preview](https://www.dropbox.com/s/wl4pm7n4xmhtk3a/Screenshot%202014-07-16%2020.23.39.png)
+![support-gbk preview](https://www.dropbox.com/s/wl4pm7n4xmhtk3a/Screenshot%202014-07-16%2020.23.39.png?dl=1)
 
 ### Installation
 
